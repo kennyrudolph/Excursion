@@ -13,3 +13,8 @@ a {
 	font-size: 16px;
 	color: aquamarine;
 }
+
+video {
+	display: block;
+	clear: both;
+}
